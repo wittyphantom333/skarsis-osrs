@@ -10,3 +10,8 @@
 > Our goal was to have the features of a modern deob client such as gpu rendering while also having high quality custom content.
 > This package has been collecting dust on my github repository and I'd like to have it out to the community in hopes that it may inspire some users to move away from 317 servers and into deobs even if they want to do custom servers.
 > ReverendDread has already released our cache editor which was written for Kronos. That can be found HEREl. Be sure to thank his post!
+>
+> Most notably is the way item attributes and upgrades work. On each item object there is also an optional list of attributes that can be added fairly easily.
+> This server contains most content up to TOB and we started a good bit of work on it before closing. The interfaces and party systems are done, combat it left.
+>
+> You can learn more about what there server has to offer in our [advertisement thread](https://www.rune-server.ee/runescape-development/rs2-server/advertise/690549-kronos-first-osrs-deob-custom-server-just-released.html)
