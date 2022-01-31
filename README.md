@@ -1,0 +1,12 @@
+![Kronos Logo](https://imgur.com/vlOi8YW.png)
+
+---
+
+**This was released on [Rune-Server](https://www.rune-server.ee/runescape-development/rs2-server/downloads/696766-kronos-osrs-semi-custom-server-deob-client-multi-world-support-184-a.html) by [Patrity](https://www.rune-server.ee/members/patrity/).**
+
+---
+
+> Kronos was a semi-custom server that was hosted from May to September of 2020. We launched with 150 players online and maintained stability well.
+> Our goal was to have the features of a modern deob client such as gpu rendering while also having high quality custom content.
+> This package has been collecting dust on my github repository and I'd like to have it out to the community in hopes that it may inspire some users to move away from 317 servers and into deobs even if they want to do custom servers.
+> ReverendDread has already released our cache editor which was written for Kronos. That can be found HEREl. Be sure to thank his post!
